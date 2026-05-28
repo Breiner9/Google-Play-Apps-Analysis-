@@ -65,8 +65,6 @@ google-play-analysis/
 | 4 | Reviews vs Rating | Strong relationship — High-rated apps average 338,930 reviews vs 180 for low-rated |
 | 5 | Market saturation | 3 saturated (Family, Game, Tools) vs 5 opportunity categories (Communication, Photography, Social, Video Players, Entertainment) |
 
-## 👤 Author
-**Breiner Pinilla** — Data Analyst
 
 
 ## 👤 Author
